@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 50px;
+}
+
+input[type="number"] {
+    padding: 10px;
+    font-size: 16px;
+    width: 200px;
+}
+
+#message {
+    margin-top: 10px;
+    font-size: 16px;
+    color: #333;
+}
